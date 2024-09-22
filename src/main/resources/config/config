@@ -1,0 +1,7 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaam5wovaga2grnhes24gwhyrk3fdahshhz64j7wbbg2l3e4lq4lt7q
+fingerprint=de:d4:4a:12:4b:82:35:ec:dd:63:9c:4c:6d:49:d3:4c
+key_file=src/main/resources/config/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaap2735wbd7lpnf4sri46egzwa43wqmi34o6ugfhcriqlj2i6vlsq
+region=eu-frankfurt-1
+pass_phrase=bildevops
